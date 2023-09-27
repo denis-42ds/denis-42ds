@@ -1,3 +1,4 @@
+## hello reader 👋
 I am truly interested in finding patterns and connections in data,
 automation of routine processes to free up human time.
 Some time ago, I came to the conclusion that 1C and Excel tools are not enough to implement full automation.
