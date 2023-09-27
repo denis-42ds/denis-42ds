@@ -1,8 +1,7 @@
-## Всем привет.
-Меня очень интересует поиск закономерностей и связей в данных, 
-<br>автоматизация рутинных процессов для высвобождения человеческого времени. 
-<br>Некоторое время назад пришёл к мысли, что для реализации полноценной автоматизации недостаточно инструментов 1С и Excel. 
-<br>Решил попробовать различные обучающие курсы из новой для себя сферы на разных платформах. 
-<br>После того, как дошёл до Data Science, ощутил потребность в углубленном изучении этого безграничного направления, чем сейчас и занимаюсь. 
-<br>Стараюсь регулярно посещать конференции и вебинары, читаю статьи на Хабре, 
-<br>подписан на различные каналы, читаю книги по данной теме. Также принимаю участие в соревнованиях на различных платформах.
+I am truly interested in finding patterns and connections in data,
+automation of routine processes to free up human time.
+Some time ago, I came to the conclusion that 1C and Excel tools are not enough to implement full automation.
+I decided to try various training courses from a new field on different platforms.
+After I got to Data Science, I felt the need for an in-depth study of this limitless field, which is what I am doing now.
+I regularly try to attend conferences and webinars, read articles on Habré,
+subscribed to various channels, read books on this topic. I also take part in competitions on various platforms.
