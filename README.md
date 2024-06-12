@@ -1,8 +1,11 @@
-## hello, reader 👋
-<br>I am truly interested in finding patterns and connections in data,
-automation of routine processes to free up human time.
-<br>Some time ago, I came to the conclusion that 1C and Excel tools are not enough to implement full automation.
-<br>I decided to try various training courses from a new field on different platforms.
-<br>After I got to Data Science, I felt the need for an in-depth study of this limitless field, which is what I am doing now.
-<br>I regularly try to attend conferences and webinars, read articles on Habr,
-<br>subscribed to various channels, read books on this topic. I also take part in competitions on various platforms.
+## Hello, Reader 👋
+<br>I have been working as a data analyst for more than 10 years (I analyze sales (including through marketplaces),
+<br>the efficiency of warehouse workers, product turnover, product price dynamics) in various companies.
+<br>I try to keep my knowledge up to date: I study articles, attend conferences and webinars.
+
+<br>Experience and achievements:
+- My ml solutions take prizes and top lines of ratings;
+- I have experience in additional training of language models and creating CV models;
+- I have extensive experience in time series forecasting;
+- I build pipelines using Apache Airflow;
+- I create FastAPI applications.
